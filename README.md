@@ -1,6 +1,6 @@
 # TodoListV2
 
-To Do List (v2 in the course, added a database) made with HTML + CSS + JavaScript and ExpressJS + Mongoose. 
+To Do List (v2 in the course, added a database) made with HTML + CSS + JavaScript and EJS + ExpressJS + Mongoose. 
 Linked with Atlas for database to hold items added to lists. 
 The website is dynamic (try adding /{words} to the end of the link for a newly titled page/list! But be careful, all updates are public to 
           everyone and appear in my database!)
